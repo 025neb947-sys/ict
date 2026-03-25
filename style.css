@@ -1,0 +1,11 @@
+
+body {
+    background-image: url(https://www.template.net/backgrounds);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
