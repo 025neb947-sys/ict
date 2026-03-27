@@ -1,6 +1,6 @@
 
 body {
-    background-image: url(https://www.template.net/backgrounds);
+    background-image: url("https://www.template.net/backgrounds");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
